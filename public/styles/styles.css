@@ -17,3 +17,7 @@
 .hidden {
   display: none;
 }
+
+.img-frame {
+  width: 10vh;
+}
