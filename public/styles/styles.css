@@ -17,3 +17,12 @@
 .hidden {
   display: none;
 }
+
+.images {
+  height: 10vh;
+  width: 10vw;
+}
+
+.btn {
+  margin: 1em;
+}
